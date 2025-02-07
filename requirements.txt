@@ -1,0 +1,4 @@
+metaflow
+loguru
+minio
+polars
